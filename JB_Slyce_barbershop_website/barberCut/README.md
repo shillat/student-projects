@@ -9,7 +9,7 @@ The system prevents double-booking of the same barber/time slot.
 ## System Architecture
 The application follows a decoupled client-server architecture:
 
-**Presentation Layer: React.js SPA (Single Page Application).
+**Presentation Layer**: React.js SPA (Single Page Application).
 
 API Layer: Spring Boot REST Controllers.
 
