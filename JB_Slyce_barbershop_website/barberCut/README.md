@@ -11,9 +11,9 @@ The application follows a decoupled client-server architecture:
 
 **Presentation Layer**: React.js SPA (Single Page Application).
 
-API Layer: Spring Boot REST Controllers.
+**API Layer**: Spring Boot REST Controllers.
 
-Persistence Layer: MongoDB (NoSQL) for flexible reservation schemas.
+**Persistence Layer**: MongoDB (NoSQL) for flexible reservation schemas.
 
 ## Project Structure
 ```
@@ -168,25 +168,25 @@ SOFTWARE.
 ### Contributing to BarberCut
 We welcome contributions! To maintain code quality, please follow these steps:
 
-Fork the Project: Ensure you are working on your own fork.
+**Fork the Project**: Ensure you are working on your own fork.
 
-Create a Feature Branch: git checkout -b feature/AmazingFeature.
+**Create a Feature Branch**: git checkout -b feature/AmazingFeature.
 
-Code Standards:
+**Code Standards**:
 
-Backend: Follow standard Java naming conventions and include Unit Tests for Service logic.
+**Backend**: Follow standard Java naming conventions and include Unit Tests for Service logic.
 
-Frontend: Use functional components and Hooks.
+**Frontend**: Use functional components and Hooks.
 
-Submit a Pull Request: Provide a detailed description of your changes and link any related issues.
+**Submit a Pull Request**: Provide a detailed description of your changes and link any related issues.
 
 ### Support & Contact
 If you encounter any issues or have questions regarding the BarberCut system, please use the following channels:
 
-Issue Tracker: For bug reports or feature requests, please open an Issue.
+**Issue Tracker**: For bug reports or feature requests, please open an Issue.
 
-Maintainer: [Owner's Name] — [Owner's Email/Professional Email]
+**Maintainer**: [Owner's Name] — [Owner's Email/Professional Email]
 
-LinkedIn: [Owner's Profile Link]
+**LinkedIn**: [Owner's Profile Link]
 
-Contributer: [github user name - shillat]
+**Contributer**: [github user name - shillat]
